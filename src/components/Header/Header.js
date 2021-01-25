@@ -32,10 +32,10 @@ const Header = () => {
                 <div className="mask">
                     <div className="d-flex justify-content-center align-items-center h-100">
                         <div className="text-white">
-                            <h1 className="mb-5">Steak House</h1>
-                            <h3 className="mb-5">A premium and authentic steak house</h3>
-                            <a className="m-3 btn btn-outline-light btn-lg" href="#!" role="button">See Menu</a>
-                            <a className="m-3 btn btn-outline-light btn-lg" href="#!" role="button">Book a Table</a>
+                            <h1 className="mb-4">Steak House</h1>
+                            <h3 className="mb-4">A premium and authentic steak house</h3>
+                            <a className="m-3 btn btn-outline-light btn-lg" href="#" role="button">See Menu</a>
+                            <a className="m-3 btn btn-outline-light btn-lg" href="#" role="button">Book a Table</a>
                         </div>
                     </div>
                 </div>

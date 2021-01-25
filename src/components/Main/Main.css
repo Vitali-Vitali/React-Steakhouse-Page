@@ -1,0 +1,13 @@
+.paragraph {
+    text-align: left;
+}
+
+.section {
+    background-color: black;
+}
+
+@media (min-width: 576px) {
+    .paragraph{
+        text-align: right;
+    }
+}
