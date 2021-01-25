@@ -6,6 +6,12 @@
     background-color: black;
 }
 
+.bg-image-book {
+    background-size: cover;
+    background-image: url('../../assets/book.jpg');
+    height: 400px;
+}
+
 @media (min-width: 576px) {
     .paragraph{
         text-align: right;
